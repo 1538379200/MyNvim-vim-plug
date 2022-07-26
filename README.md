@@ -1,6 +1,10 @@
 <<<<<<< HEAD
 # MyNvim-vim-plug
 VIM形式的nvim配置
+## 安装使用
+```pip install neovim``` 安装python配件
+```npm i -g xxx``` 安装lsp语言服务器(也可以使用lspinstall安装)
+进入nvim，输入```:PlugInstall```安装所有插件
 =======
 <!--p align="center"><img src="http://svgur.com/i/3Dp.svg"></p-->
 
